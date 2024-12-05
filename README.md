@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhthanhdan1710&label=Profile%20views&color=0e75b6&style=flat" alt="huynhthanhdan1710" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huynhthanhdan1710" alt="huynhthanhdan1710" /></a> </p>
-
 - 🔭 I’m currently working on [HPT Vietnam Corporation](https://hpt.vn)
 
 - 🌱 I’m currently learning **AWS Cloud, Cyber Security etc.**
