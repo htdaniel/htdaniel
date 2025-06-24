@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HPT Vietnam Corporation](https://hpt.vn)
 
-- 🌱 I’m currently learning **AWS Cloud, Cyber Security etc.**
+- 🌱 I’m currently learning **Public Cloud Services, Redhat Services Deloyment... etc.**
 
 - 📝 I regularly write articles on [Thanh Dan Blog](https://thanhdan.name.vn)
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/thanhdan-17102k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/linked-in.svg" alt="@huynhthanhdan1710" height="30" width="40" /></a>
 <a href="https://dev.to/@huynhthanhdan1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@huynhthanhdan1710" height="30" width="40" /></a>
 <a href="https://fb.com/huynh.dan.1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huynh.dan.1710" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@thanhdanhuynh654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thanhdanhuynh654" height="30" width="40" /></a>
