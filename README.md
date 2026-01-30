@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huynh Thanh Dan</h1>
 <h3 align="center">A passionate Systems Engineer and DevOps Engineer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhthanhdan1710&label=Profile%20views&color=0e75b6&style=flat" alt="huynhthanhdan1710" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhthanhdan1710&label=Profile%20views&color=0e75b6&style=flat" alt="Dan Huynh" /> </p>
 
 - 🔭 I’m currently working on [HPT Vietnam Corporation](https://hpt.vn)
 
